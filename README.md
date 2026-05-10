@@ -27,13 +27,6 @@ Based on the analysis of the dataset (January - June):
 
 ## ⚠️ Known Issues
 - **Slicer Lag:** I am currently troubleshooting a slight delay when using slicers. It is likely due to calculation overhead or file size optimization. Feel free to suggest a fix if you've encountered this before!
-
-## 🚀 How to Use
-1. Clone this repository.
-2. Open the `.xlsx` file in Microsoft Excel.
-3. Enable Macros/Content if prompted.
-4. Use the **Month Name Slicer** on the left to filter the data.
-
 ---
 Created with ☕ by [Felix]. 
 *Feedback and suggestions are always welcome!*
