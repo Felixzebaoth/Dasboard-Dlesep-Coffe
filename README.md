@@ -35,5 +35,5 @@ Based on the analysis of the dataset (January - June):
 4. Use the **Month Name Slicer** on the left to filter the data.
 
 ---
-Created with ☕ by [Nama Kamu/Felix]. 
+Created with ☕ by [Felix]. 
 *Feedback and suggestions are always welcome!*
